@@ -1,0 +1,2 @@
+- [Quick Installer](system_tools/readme.md)
+  - [Ubuntu](system_tools/ubuntu.md)
