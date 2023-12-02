@@ -1,2 +1,2 @@
-- [Quick Installer](system_tools/readme.md)
+- [快速安装](system_tools/readme.md)
   - [Ubuntu](system_tools/ubuntu.md)
