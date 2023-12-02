@@ -1,3 +1,3 @@
 - Translations
-  - [:uk: English](/)
-  - [:cn: 简体中文](/docs_zh/)
+  - [:uk: English](https://jaxaxx.github.io)
+  - [:cn: 简体中文]()
