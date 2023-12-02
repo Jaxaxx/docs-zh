@@ -1,5 +1,7 @@
 # Ubuntu-Tools
+___
 > Collection ubuntu dev-tools
+
 
 ## Github Desktop
 ```shell
@@ -8,7 +10,7 @@ sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/shiftkey/desktop/any/
 sudo apt-get update
 sudo apt install github-desktop
 ```
-
+___
 ## Pyenv
 choose one of two
 ```shell
@@ -23,3 +25,4 @@ echo 'eval "$(pyenv init -)"' >> ~/.bashrc
 source  ~/.bashrc
 sudo apt install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl git
 ```
+___

@@ -1,2 +1,6 @@
-- [快速安装](system_tools/readme.md)
-  - [Ubuntu](system_tools/ubuntu.md)
+- [快速安装脚本](system_tools/overview.md)
+    - [Ubuntu](system_tools/ubuntu.md)
+- [devops冷知识](devops/overview.md)
+  - [Docker](devops/docker.md)
+  - [Docker Compose](devops/docker_compose.md)
+  - [Kubernetes](devops/kubernetes.md)
